@@ -106,6 +106,12 @@ const getMenuItems = (props) => {
       leftIcon: <Icon className='material-icons' >business</Icon>
     },
     {
+      value: '/companiescard',
+      visible: isGranted('read_companies'),
+      primaryText: intl.formatMessage({ id: 'Companies Card' }),
+      leftIcon: <Icon className='material-icons' >business</Icon>
+    },
+    {
       value: '/tasks',
       visible: isAuthorised,
       primaryText: intl.formatMessage({ id: 'tasks' }),

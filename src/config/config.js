@@ -6,20 +6,20 @@ import grants from './grants'
 
 const config = {
   firebase_config: {
-    apiKey: 'AIzaSyBQAmNJ2DbRyw8PqdmNWlePYtMP0hUcjpY',
-    authDomain: 'react-most-wanted-3b1b2.firebaseapp.com',
-    databaseURL: 'https://react-most-wanted-3b1b2.firebaseio.com',
-    projectId: 'react-most-wanted-3b1b2',
-    storageBucket: 'react-most-wanted-3b1b2.appspot.com',
-    messagingSenderId: '258373383650'
+    apiKey: 'AIzaSyB9SH5NS1R5m6F1D9VAFcaX9AR3wL09T3o',
+    authDomain: 'smartcitydating.firebaseapp.com',
+    databaseURL: 'https://smartcitydating.firebaseio.com',
+    projectId: 'smartcitydating',
+    storageBucket: 'smartcitydating.appspot.com',
+    messagingSenderId: '754128896826'
   },
   firebase_config_dev: {
-    apiKey: 'AIzaSyB31cMH9nJnERC1WCWA7lQHnY08voLs-Z0',
-    authDomain: 'react-most-wanted-dev.firebaseapp.com',
-    databaseURL: 'https://react-most-wanted-dev.firebaseio.com',
-    projectId: 'react-most-wanted-dev',
-    storageBucket: 'react-most-wanted-dev.appspot.com',
-    messagingSenderId: '70650394824'
+    apiKey: 'AIzaSyDB1Ups0Zdd7O7FOFbDxEZ04ub82jdM5tU',
+    authDomain: 'smartcitydating-dev.firebaseapp.com',
+    databaseURL: 'https://smartcitydating-dev.firebaseio.com',
+    projectId: 'smartcitydating-dev',
+    storageBucket: 'smartcitydating-dev.appspot.com',
+    messagingSenderId: '75363293548'
   },
   firebase_providers: [
     'google.com',

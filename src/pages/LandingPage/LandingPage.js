@@ -212,7 +212,7 @@ class LandingPage extends Component {
                   gutterBottom
                   className={classes.title}
                 >
-                  {'REACT MOST WANTED'}
+                  {'Urbalurba SmartCity Dating'}
                 </Typography>
                 <Typography
                   variant='headline'
